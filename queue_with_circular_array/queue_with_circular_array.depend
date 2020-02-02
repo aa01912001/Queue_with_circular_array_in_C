@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580623113 source:d:\github_code\queue_with_circular_array_in_c\queue_with_circular_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
