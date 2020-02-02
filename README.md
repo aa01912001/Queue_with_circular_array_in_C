@@ -1,2 +1,8 @@
 # Queue_with_circular_array_in_C
-Implement queue with circular array in C
+functions:<br/>
+- create --> complexity: O(1)<br/>
+- isEmpty --> complexity: O(1)<br/>
+- isFull --> complexity: O(1)<br/>
+- enqueue --> complexity: O(1)<br/>
+- dequeue --> complexity: O(1)<br/>
+
